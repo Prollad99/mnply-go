@@ -1,0 +1,11 @@
+baseURL = "https://monopolygofreedice.wiki"
+languageCode = "en-us"
+title = "Monopoly GO Free Dice"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"

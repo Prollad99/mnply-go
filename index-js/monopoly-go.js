@@ -23,7 +23,7 @@ axios.get(url)
       fs.mkdirSync(dir);
     }
 
-    const filePath = path.join(dir, 'wizard-of-oz.json');
+    const filePath = path.join(dir, 'monopoly-go.json');
     fs.writeFileSync(filePath, JSON.stringify(links, null, 2), 'utf8');
     console.log(`Links saved to ${filePath}`);
   })

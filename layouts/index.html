@@ -36,13 +36,14 @@
                 <div class="card shadow-sm mb-2">
                     <div class="card-body">
                         <h2>Blog</h2>
-                        <ul class="list-group fixed-height-scroll">
-                            {{ $pages := where .Site.RegularPages "Params.excludeFromHome" "ne" true }}
-                            {{ range $pages }}
-                                <li class="list-group-item">
-                                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                                </li>
-                            {{ end }}
+                                                <ul class="list-group fixed-height-scroll">
+      {{ range .Site.RegularPages }}
+    {{ if not .Params.excludeFromHome }}
+        <li class="list-group-item">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+    {{ end }}
+{{ end }}
                         </ul>
                     </div>
                 </div>

@@ -2,6 +2,9 @@ baseURL = "https://monopolygofreedice.wiki"
 languageCode = "en-us"
 title = "Monopoly GO Free Dice"
 
+[params]
+  description = "Discover how to get unlimited free dice rolls in Monopoly Go using daily updated links and in-game strategies."
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

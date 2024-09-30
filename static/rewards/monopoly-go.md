@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://mply.io/LFRtRGdcqLI">25 free dice 30.9.2024</a></p>
+
   <p><a href="https://mply.io/yHqxnEwtRmg">25 free dice 30.9.2024</a></p>
 
   <p><a href="https://mply.io/X9_S_TasqvM">25 free dice 29.9.2024</a></p>

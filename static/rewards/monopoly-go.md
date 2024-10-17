@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/Discord_17oct_1234235?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 17.10.2024</a></p>
+
   <p><a href="https://mply.io/9S3NOS4qtxg">25 free dice 16.10.2024</a></p>
 
   <p><a href="https://mply.io/cCoyB38PZRM">30 free dice 15.10.2024</a></p>

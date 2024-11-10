@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/VKJlIaegmiy599?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 10.11.2024</a></p>
+
   <p><a href="https://2tdd.adj.st/reward-link/NOk9097ihhftt?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 9.11.2024</a></p>
 
   <p><a href="https://2tdd.adj.st/reward-link/iubajkcHHk0097?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 8.11.2024</a></p>

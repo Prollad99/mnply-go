@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/NJsoi73jfkiwr?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">free stickers 30.11.2024</a></p>
+
   <p><a href="https://mply.io/_Bi6izTMqTI">25 free dice 29.11.2024</a></p>
 
   <p><a href="https://2tdd.adj.st/reward-link/Ietmn935sJwq?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 29.11.2024</a></p>

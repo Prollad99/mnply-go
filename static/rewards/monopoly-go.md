@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/ghiKeyu3hm687?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 17.12.2024</a></p>
+
   <p><a href="https://mply.io/sQqwl8zELe4">35 min builder bash</a></p>
 
   <p><a href="https://mply.io/ZzgNMo4x8rM">25 free dice 16.12.2024</a></p>

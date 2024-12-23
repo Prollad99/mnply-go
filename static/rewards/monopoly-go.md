@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/Discord_23dec_143535?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 23.12.2024</a></p>
+
   <p><a href="https://2tdd.adj.st/reward-link/Keog372khqhlh?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 22.12.2024</a></p>
 
   <p><a href="https://2tdd.adj.st/reward-link/MPG-YT-30Rolls-2112?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">30 free dice 22.12.2024</a></p>

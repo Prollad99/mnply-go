@@ -1,4 +1,8 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/MPG-facebook35rolls?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">35 free dice 30.12.2024</a></p>
+
+  <p><a href="https://2tdd.adj.st/reward-link/Nwio867?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 30.12.2024</a></p>
+
   <p><a href="https://mply.io/iaNdVg">5 canvial 30.12.2024</a></p>
 
   <p><a href="https://2tdd.adj.st/reward-link/Wgmeou39?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 29.12.2024</a></p>

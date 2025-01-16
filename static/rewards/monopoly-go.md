@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/Egku30safhyjw?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 16.1.2025</a></p>
+
   <p><a href="https://2tdd.adj.st/reward-link/Discord_16Jan_283584?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 16.1.2025</a></p>
 
   <p><a href="https://mply.io/oOlTyZZ59ss">25 free dice 15.1.2025</a></p>

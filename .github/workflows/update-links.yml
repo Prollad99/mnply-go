@@ -13,18 +13,28 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4  # Use latest version
+
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Cache node modules
-        uses: actions/cache@v2
+        uses: actions/cache@v3  # Use latest version
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Install dependencies
-        run: npm install jq axios cheerio
+      - name: Install npm dependencies
+        run: |
+          if [ -f package.json ]; then
+            echo "package.json found, installing dependencies..."
+            npm install
+          else
+            echo "No package.json found. Installing manually..."
+            npm install axios cheerio
+          fi
 
       - name: Fetch and Update Links
         run: |
@@ -52,10 +62,10 @@ jobs:
           git add static/rewards/monopoly-go.md links-json/monopoly-go.json
           git commit -m "Update monopoly-go reward links" || true
 
-          # Pull with rebase to ensure the latest changes are included
+          # Pull with rebase to prevent conflicts
           git pull --rebase
 
-          # Push changes, retry if necessary
+          # Push changes with retries
           for i in {1..5}; do
             git push https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/Prollad99/mnply-go.git && break
             echo "Retry $i: Push failed, retrying in 5 seconds..."

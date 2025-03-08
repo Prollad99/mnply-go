@@ -1,4 +1,22 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/Vaoigj20682krr?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 7.3.2025</a></p>
+
+  <p><a href="https://2tdd.adj.st/reward-link/discord_3_march?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 6.3.2025</a></p>
+
+  <p><a href="https://2tdd.adj.st/reward-link/discord_3_march?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 6.3.2025</a></p>
+
+  <p><a href="https://2tdd.adj.st/reward-link/Gqo3llafkal55?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">50 free dice 6.3.2025</a></p>
+
+  <p><a href="https://mply.io/2dLN724dqkI">25 free dice 6.3.2025</a></p>
+
+  <p><a href="https://mply.io/4lBdh7EePp8">25 free dice 5.3.2025</a></p>
+
+  <p><a href="https://2tdd.adj.st/reward-link/Vawgo268123?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 5.3.2025</a></p>
+
+  <p><a href="https://mply.io/YGHGfb8voWc">25 free dice 3.3.2025</a></p>
+
+  <p><a href="https://2tdd.adj.st/reward-link/Gijgo2i6903?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 3.3.2025</a></p>
+
   <p><a href="https://2tdd.adj.st/reward-link/Falig20kgql?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 2.3.2025</a></p>
 
   <p><a href="https://2tdd.adj.st/reward-link/GFiegk306215?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 1.3.2025</a></p>

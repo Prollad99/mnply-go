@@ -1,4 +1,6 @@
 <div class="rewards">
+  <p><a href="https://2tdd.adj.st/reward-link/Wgmgitmni967979?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 8.3.2025</a></p>
+
   <p><a href="https://2tdd.adj.st/reward-link/Vaoigj20682krr?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 7.3.2025</a></p>
 
   <p><a href="https://2tdd.adj.st/reward-link/discord_3_march?adjust_t=i2f8o2i_4btbvwg&adjust_deeplink_js=1">25 free dice 6.3.2025</a></p>
